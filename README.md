@@ -1,2 +1,12 @@
 # project_10
 Simple project using the JavaScript language
+
+In this challenge, I asked the user to enter **two numbers** and from there I calculated:
+
+- [ ] The sum of the two numbers;
+- [ ] The subtraction of the two numbers;
+- [ ] The multiplication of two numbers;
+- [ ] The division of the two numbers;
+- [ ] The remainder of the division of the two numbers;
+- [ ] Check if the sum of the two numbers is even;
+- [ ] Check that the two numbers entered are the same.
